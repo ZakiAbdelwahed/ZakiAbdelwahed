@@ -1,10 +1,16 @@
-<p align="center"> 
-# Hi there 👋 I'm Zaki Abdelwahed 
-</p>
+<h1 align="center">Hi there 👋 I'm Zaki Abdelwahed</h1>
 
-### Data Analyst
+<h4 align="center">Data Analyst by day, Rapper by night. Visualizing numbers and putting words together with equal passion.</h4>
 
-I'm a Data Analyst with a special appreciation
+
+
+[![github](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)][1]
+[![github](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)][2]
+
+[1]: https://fr.linkedin.com/in/zaki-abdelwahed
+[2]: zakiabdelwhaed@gmail.com
+
+
 <!--
 **ZakiAbdelwahed/ZakiAbdelwahed** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
