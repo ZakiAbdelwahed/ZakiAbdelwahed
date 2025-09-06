@@ -1,7 +1,5 @@
 <h1 align="center">Hi there 👋 I'm Zaki Abdelwahed</h1>
 
-<h4 align="center">Data Analyst by day, Rapper by night. Visualizing numbers and putting words together with equal passion.</h4>
-
 <p align="center">
 <a href='https://fr.linkedin.com/in/zaki-abdelwahed'><img src='https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white' alt='LinkedIn' align='center'/></a>
 <a href='mailto:zakiabdelwahed@gmail.com'><img src='https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white' alt='Gmail' align='center'/></a>
